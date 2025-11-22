@@ -1,0 +1,9 @@
+{
+  "food_img_path": "E:\\PycharmProjects\\snake_game-main\\img\\feizhouzhixin.png",
+  "left_head_path": "E:\\PycharmProjects\\snake_game-main\\img\\heizi.png",
+  "right_head_path": "E:\\PycharmProjects\\snake_game-main\\img\\sihao.png",
+  "bgm_file": "E:\\PycharmProjects\\snake_game-main\\music\\bgm.mp3",
+  "eat_left_file": "E:\\PycharmProjects\\snake_game-main\\music\\yes1.ogg",
+  "eat_right_file": "E:\\PycharmProjects\\snake_game-main\\music\\yes3.ogg",
+  "dead_file": "E:\\PycharmProjects\\snake_game-main\\music\\death.ogg"
+}
